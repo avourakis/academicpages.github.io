@@ -26,7 +26,7 @@ Latest Projects
         <p>This is image 1</p>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="/images/image-alignment-300x200.jpg"/ height="200" width="200"/>
+        <img class="middle-img" src="/images/image-alignment-300x200.jpg" height="200" width="200"/>
         <p>This is image 2</p>
     </div>
 </div>
