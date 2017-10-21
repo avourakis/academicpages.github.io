@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "AI for Everyone!"
     url: /publications/
 
-  - title: "Talks"
+  - title: "STEMbility"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Projects"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Resume"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
