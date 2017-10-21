@@ -10,7 +10,7 @@ redirect_from:
 
 Talks
 ======
-
+<img src='/images/test_image.jpg'>
 
 Latest Projects
 ======
