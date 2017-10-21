@@ -9,7 +9,6 @@
 locale                   : "en-US"
 title                    : "andresvourakis.io"
 title_separator          : "-"
-future                   : true
 name                     : &name "Andres Vourakis"
 description              : &description "personal description"
 url                      : https://avourakis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -250,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: UTC #America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
