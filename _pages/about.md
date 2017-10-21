@@ -13,7 +13,7 @@ Latest Talk
 
 ---
 title: "Portfolio item number 1"
-excerpt: "Machine Learning talk at UC Irvine.<br/><img src='/images/test_image.jpg'>"
+excerpt: "Machine Learning talk at UC Irvine.<br/><img src='/images/test_image.jpg' alt="A Gentle Introducetion to Machine Learning" style="width: 200px;">"
 ---
 
 
