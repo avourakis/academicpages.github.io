@@ -19,14 +19,8 @@ Latest Talk
 
 Latest Projects
 ======
-
-<div class="image123">
-    <div class="imgContainer">
-        <img src="/images/image-alignment-300x200.jpg" height="200" width="200"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="/images/image-alignment-300x200.jpg" height="200" width="200"/>
-        <p>This is image 2</p>
-    </div>
-</div>
+---
+title: "CreativiTree"
+excerpt: "Image Synthesis in Minecraft world using a TensorFlow implementation of Deep Convolutional Generative Adversarial Networks<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
