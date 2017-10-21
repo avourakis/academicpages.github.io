@@ -10,7 +10,12 @@ redirect_from:
 
 Talks
 ======
-<img src='/images/test_image.jpg'>
+
+---
+title: "Portfolio item number 1"
+excerpt: "Machine Learning talk at UC Irvine.<br/><img src='/images/test_image.jpg'>"
+---
+
 
 Latest Projects
 ======
