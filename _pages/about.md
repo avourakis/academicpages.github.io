@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Education"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image-alignment-150x150.jpg'>"
-collection: portfolio
----
+Talks
+======
 
----
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image-alignment-150x150.jpg'>"
-collection: portfolio
----
+{% for post in site.pages %}
+  {% include portfolio-1.md %}
+{% endfor %}
 
 
+Latest Projects
+======
