@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "andresvourakis.io"
+title                    : "Andres Vourakis"
 title_separator          : "-"
 name                     : &name "Andres Vourakis"
 description              : &description "personal description"
