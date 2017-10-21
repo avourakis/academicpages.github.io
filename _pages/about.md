@@ -12,8 +12,9 @@ Latest Talk
 ======
 
 Introducing Machine Learning to UC Irvine students [Read more...](https://avourakis.github.io/portfolio)
-[Read more...](https://avourakis.github.io/portfolio)
+<a href="https://avourakis.github.io/portfolio">
 <img src="/images/test_image.jpg" alt="Talk at UCI" style="width: 500px;"/>
+</a>
 
 
 Latest Projects
