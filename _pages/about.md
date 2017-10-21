@@ -19,7 +19,7 @@ Latest Projects
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/image-alignment-300x200.jpg'>"
 ---
-
+ 
 ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/image-alignment-300x200.jpg'>"
