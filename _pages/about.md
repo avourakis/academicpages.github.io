@@ -11,19 +11,10 @@ redirect_from:
 Latest Talk
 ======
 
-Introducing Machine Learning to students at UC Irvine ![Read more...](avourakis.github.io/portfolio)
+Introducing Machine Learning to UC Irvine students [Read more...](https://avourakis.github.io/portfolio)
 <img src="/images/test_image.jpg" alt="Talk at UCI" style="width: 500px;"/>
 
 
 Latest Projects
 ======
 
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image-alignment-300x200.jpg'>"
----
- 
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image-alignment-300x200.jpg'>"
----
