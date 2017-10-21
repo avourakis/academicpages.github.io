@@ -10,6 +10,10 @@ redirect_from:
 
 Latest Talk
 ======
+<a href="https://avourakis.github.io/portfolio">
+Latest Talk
+======
+</a>
 
 "A Gentle Introduction to Machine Learning at UC Irvine" [Read more...](https://avourakis.github.io/portfolio)
 <a href="https://avourakis.github.io/portfolio">
