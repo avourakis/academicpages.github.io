@@ -26,7 +26,6 @@ Latest Project
 
 CreativiTree
 -----
-
 Image Synthesis...[Read more](https://avourakis.github.io/portfolio)
 <a href="https://avourakis.github.io/portfolio">
 <img src="/images/test_image.jpg" alt="Talk at UCI" style="width: 500px;"/>
