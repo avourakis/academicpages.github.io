@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io)
+
 Latest Talk
 ======
 
@@ -25,4 +27,7 @@ Latest Project
 CreativiTree
 -----
 
-Image Synthesis...
+Image Synthesis...[Read more](https://avourakis.github.io/portfolio)
+<a href="https://avourakis.github.io/portfolio">
+<img src="/images/test_image.jpg" alt="Talk at UCI" style="width: 500px;"/>
+</a>
