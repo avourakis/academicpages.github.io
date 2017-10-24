@@ -26,7 +26,7 @@ Latest Project
 
 CreativiTree
 -----
-Image Synthesis in Minecraft world using Deep Convolutional...[Read more](https://avourakis.github.io/portfolio)
-<a href="https://avourakis.github.io/portfolio">
+Image Synthesis in Minecraft world using Deep Convolutional Adversarial...<a href="https://jtjanecek.github.io/CreativiTree" target="_blank">Read More</a>
+<a href="https://jtjanecek.github.io/CreativiTree" target="_blank">
 <img src="/images/test_image.jpg" alt="Talk at UCI" style="width: 500px;"/>
 </a>
