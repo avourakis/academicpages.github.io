@@ -28,5 +28,5 @@ CreativiTree
 -----
 Image Synthesis in Minecraft world using Deep Convolutional Adversarial...<a href="https://jtjanecek.github.io/CreativiTree" target="_blank">Read More</a>
 <a href="https://jtjanecek.github.io/CreativiTree" target="_blank">
-<img src="/images/creativitree.jpg" alt="Talk at UCI" style="width: 500px;"/>
+<img src="/images/creativitree.png" alt="Talk at UCI" style="width: 500px;"/>
 </a>
