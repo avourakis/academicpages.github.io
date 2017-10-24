@@ -17,7 +17,7 @@ Latest Talk
 ------
 Introducing Machine Learning to UC Irvine Students...[Read more](https://avourakis.github.io/portfolio)
 <a href="https://avourakis.github.io/portfolio">
-<img src="/images/test_image.jpg" alt="Talk at UCI" style="width: 500px;"/>
+<img src="/images/test_image.jpg" alt="A Gentle Introduction to Machine Learning by Andres Vourakis" style="width: 500px;"/>
 </a>
 
 
@@ -28,5 +28,5 @@ CreativiTree
 -----
 Image Synthesis in Minecraft world using Deep Convolutional Adversarial...<a href="https://jtjanecek.github.io/CreativiTree" target="_blank">Read More</a>
 <a href="https://jtjanecek.github.io/CreativiTree" target="_blank">
-<img src="/images/creativitree.png" alt="Talk at UCI" style="width: 500px;"/>
+<img src="/images/creativitree.png" alt="CreativiTree" style="width: 500px;"/>
 </a>
