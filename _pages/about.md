@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io)
+Feel free to look around and contact me if you'd like to meet for coffe (or tea).
 
 Latest Talk
 ======
