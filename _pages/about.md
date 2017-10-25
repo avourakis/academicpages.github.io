@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="background-color: #91cbdc">Hi :) Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span></strong>
+<span style="background-color: #91cbdc">Hi :) Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span>
 <hr>
 
 <img src="/images/talk.png"/> Latest Talk
