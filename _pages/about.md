@@ -21,7 +21,7 @@ Introducing Machine Learning to UC Irvine Students...[Read more](https://avourak
 </a>
 
 
-Latest Project
+Latest Project <img src="/images/code.png"/>
 ======
 
 CreativiTree
