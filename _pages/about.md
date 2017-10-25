@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Hi :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Feel free to look around and contact me if you'd like to meet for coffe (or tea).
+<br>Hi :)</br>Feel free to look around and contact me if you'd like to meet for coffe (or tea).
+<hr>
 
 <img src="/images/talk.png"/> Latest Talk
 ======
