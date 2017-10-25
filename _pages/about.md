@@ -9,7 +9,7 @@ redirect_from:
 
 <div>
 <h1 style="display: inline;">Hi :) </h1>
-<span style="display: inline;">Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span>
+<span style="display: inline;"> Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span>
 </div>
 <hr>
 
