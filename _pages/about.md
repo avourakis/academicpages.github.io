@@ -10,7 +10,7 @@ redirect_from:
 
 Feel free to look around and contact me if you'd like to meet for coffe (or tea).
 
-Latest Talk
+Latest Talk <img src=/images/talk.png/>
 ======
 
 "A Gentle Introduction to Machine Learning"
