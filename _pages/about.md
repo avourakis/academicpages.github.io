@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>Hi :)</h1>Feel free to look around and contact me if you'd like to meet for coffe (or tea).
+<h1>Hi :) <span>Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span></h1>
 <hr>
 
 <img src="/images/talk.png"/> Latest Talk
