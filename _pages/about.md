@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div>
-<h1 style="display: inline;">Hi :) </h1>
-<font color="#16384"><span style="display: inline;"> Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span></font>
-</div>
+<strong><font color="#16384"><span style="display: inline;">Hi :) Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span></font></strong>
 <hr>
 
 <img src="/images/talk.png"/> Latest Talk
