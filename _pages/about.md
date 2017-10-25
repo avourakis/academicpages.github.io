@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<h1>Hi :)</h1> <span>Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span>
-<hr>
-
 <div>
-<h1 style="display: inline;">Hi :)</h1>
+<h1 style="display: inline;">Hi :) </h1>
 <span style="display: inline;">Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span>
 </div>
+<hr>
 
 <img src="/images/talk.png"/> Latest Talk
 ======
