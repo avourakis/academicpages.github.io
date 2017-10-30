@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-<a href="https://docs.google.com/presentation/d/12yWbbnTw3QgsaWwy1OaZkVn9SzKRD7-BtaA4zpAH-Vs/edit?usp=sharing">Presentation</a>
+<a href="https://docs.google.com/presentation/d/12yWbbnTw3QgsaWwy1OaZkVn9SzKRD7-BtaA4zpAH-Vs/edit?usp=sharing" target="_blank">Presentation</a>
