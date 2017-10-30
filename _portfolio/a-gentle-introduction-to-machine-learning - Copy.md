@@ -1,6 +1,6 @@
 ---
 title: "A Gentle Introduction to Machine Learning"
-excerpt: "An Introduction to Artificial Intelligence and Machine Learning<br/><img src='/images/gentle_intro.jpg' width="50%" height="50%>"
+excerpt: "An Introduction to Artificial Intelligence and Machine Learning<br/><img src='/images/gentle_intro.png'>"
 collection: portfolio
 ---
 
