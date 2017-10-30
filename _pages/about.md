@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<strong><span>Hi :) Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span></font></strong>
+<strong><span>Hi :) Feel free to look around and contact me if you'd like to meet for coffe (or tea).</span></strong>
 <hr>
 
 <img src="/images/talk.png"/> Latest Talk
