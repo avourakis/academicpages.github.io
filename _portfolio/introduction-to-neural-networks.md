@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Neural Networks"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/a_gentle_intro_thumb.png'>"
+excerpt: "Introduction to Deep Learning and the Basics of Neural Networks<br/><img src='/images/gentle_intro_thumb.png'>"
 collection: portfolio
 ---
 
