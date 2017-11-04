@@ -1,7 +1,7 @@
 ---
 title: "A Gentle Introduction to Machine Learning"
 excerpt: "An Introduction to Artificial Intelligence and Machine Learning<br/><img src='/images/gentle_intro_thumb.png'>"
-collection: ai-for-everyone
+collection: portfolio
 ---
 
 Artificial Intelligence (AI) and Machine Learning (ML) are two very hot buzzwords right now, but there's still some confussion between the two. This talk does not only explain the difference between Artificial Intelligence and Machine Learning but dives a little deeper into Machine Learning and it's practical applications. Absolutely no experience required! 
