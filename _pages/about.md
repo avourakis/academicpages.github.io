@@ -16,7 +16,7 @@ redirect_from:
 ------
 Introducing Machine Learning to UC Irvine Students...[Read more](https://avourakis.github.io/ai-for-everyone)
 <a href="https://avourakis.github.io/ai-for-everyone">
-<img src="/images/uci_1_10_17_17.jpg" alt="A Gentle Introduction to Machine Learning by Andres Vourakis" style="width: 500px;"/>
+<img src="/images/talk_1_10_17_17.jpg" alt="A Gentle Introduction to Machine Learning by Andres Vourakis" style="width: 500px;"/>
 </a>
 
 
