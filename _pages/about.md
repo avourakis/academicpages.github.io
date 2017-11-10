@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About"
+excerpt: "Working on Machine Learning and Natural Language Processing to improve the way people interact with each other and explore information."
 author_profile: true
 redirect_from: 
   - /about/
