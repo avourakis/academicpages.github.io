@@ -1,6 +1,6 @@
 ---
 title: "Introduction to TensorFlow"
-excerpt: "Introduction to the Machine Learning Library, TensorFlow.<br/><img src='/images/intro_tf_thumb.png'>"
+excerpt: "Introduction to the Machine Learning Library, TensorFlow.<br/><img src='/images/intro_tf_thumb.PNG'>"
 collection: portfolio
 ---
 
