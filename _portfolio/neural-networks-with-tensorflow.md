@@ -1,6 +1,6 @@
 ---
 title: "Neural Networks with TensorFlow (Workshop)"
-excerpt: "Building your first Artificial Neural Network using TensorFlow.<br/><img src='/images/neural_net_thumb.PNG'>"
+excerpt: "Building your first Artificial Neural Network using TensorFlow.<br/><img src='/images/neural_net_thumb.png'>"
 collection: portfolio
 ---
 
