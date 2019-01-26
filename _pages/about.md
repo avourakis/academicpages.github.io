@@ -29,3 +29,7 @@ Image Synthesis in Minecraft world using Deep Convolutional Adversarial...<a hre
 <a href="https://jtjanecek.github.io/CreativiTree" target="_blank">
 <img src="/images/creativitree.png" alt="CreativiTree" style="width: 500px;"/>
 </a>
+
+<!-- For Detectify -->
+<meta name="detectify-verification"
+content="6470e8dbc8cbcbda5b905aea8f0579be" />
