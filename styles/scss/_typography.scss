@@ -1,0 +1,79 @@
+.header{
+    font-family: 'Nunito', sans-serif;
+    color: $jupiter;
+    &--1{
+        font-size: 36px;
+    }
+    &--2{
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        font-weight: 600;
+    }
+    &--3{
+        font-size: 42px;
+    }
+    &--4{
+        font-size: 22px;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+    }
+    &--5{
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        font-family: 'Montserrat', sans-serif;
+    }
+    &--yellow{
+        color: $lemon;
+    }
+    &--yellow-link{
+        color: $lemon;
+        &:hover{
+            color: $pineapple;
+        }
+    }
+    &--dark{
+        color: $granite;
+    }
+    &--light{
+        color: $silver;
+    }
+}
+.paragraph{
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0.1em;
+    line-height: 1.8;
+    &--1{
+        font-size: 14px;
+        font-weight: 200;
+    }
+    &--2{
+        font-size: 13px;
+    }
+    &--dark{
+        color: $granite;
+    }
+    &--light{
+        color: $silver;
+    }   
+}
+
+.link{
+    color: $royal;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    &:hover{
+        color: $azure;
+    }
+    &--small{
+        font-size: 12px;
+        letter-spacing: 0.07em;
+    }
+}
+.link-with-icon{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;   
+}

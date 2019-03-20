@@ -1,0 +1,51 @@
+.top{
+    display: flex;
+    grid-area: 1 / 1 / 2 / 17;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-between;
+}
+.top-logo{
+    display: flex;
+    flex-direction: column;
+    &__title{
+        align-self: flex-start;
+    }
+    &__sub-title{
+        align-self: flex-end;
+        margin-right: 6px;
+    }
+}
+.top-menu{
+    display: flex;
+    padding-top: 12px;
+    &__item{
+        color: $granite;
+        font-weight: 600;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
+        margin-right: 18px;
+        &:hover{
+            color: $lemon;
+        }
+        &--active{
+            color: $lemon;
+        }
+    }
+    &__item-with-icon{
+        font-weight: 600;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        font-size: 13px;
+        font-family: 'Montserrat', sans-serif;
+        margin-right: 18px;
+    }
+    &__icon{
+        padding-left: 4px;
+        font-size: 14px;
+        flex-direction: row;
+    }
+}

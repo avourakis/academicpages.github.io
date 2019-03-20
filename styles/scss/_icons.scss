@@ -1,0 +1,34 @@
+.big-icon{
+    font-size: 32px;
+    padding-right: 4px;
+}
+.small-icon{
+    font-size: 13px;
+}
+.fa-github,
+.fa-twitter,
+.fa-linkedin-in,
+.fa-envelope,
+.fa-medium-m,
+.fa-external-link-square-alt{
+    color: $royal;
+    &:hover{
+        color: $azure;
+    }
+}
+.fa-angle-down,
+.fa-angle-up{
+    font-size: 34px;
+    color: $granite;
+}
+.fa-medium{
+    color: $granite;
+    font-size: 12px;
+    &:hover{
+        color: $lemon;
+    }
+}
+.icons-container{
+    display: flex;
+    justify-content: flex-end;
+}
